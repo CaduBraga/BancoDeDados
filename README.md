@@ -6,7 +6,7 @@ Este repositório contém todos os materiais e scripts relacionados às aulas de
 
 O projeto está organizado nas seguintes pastas:
 
-- `Fabrica/` - Contém os scripts e documentação principal do projeto
+- `MiniMundo - Fabrica/` - Contém os scripts e documentação principal do projeto
 - `Entrega final/` - Material da entrega final do projeto
 - `Atividade 6/` - Scripts e documentação da Atividade 6
 - `Atividade 7/` - Scripts e documentação da Atividade 7
