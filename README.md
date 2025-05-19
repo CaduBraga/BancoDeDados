@@ -4,18 +4,25 @@ Este repositório contém todos os materiais e scripts relacionados às aulas de
 
 ## Estrutura do Projeto
 
-O projeto está organizado nas seguintes pastas:
+O projeto está organizado nas seguintes pastas e arquivos:
 
-- `MiniMundo - Fabrica/` - Contém os scripts e documentação principal do projeto
+### Pastas Principais
 - `Entrega final/` - Material da entrega final do projeto
 - `Atividade 6/` - Scripts e documentação da Atividade 6
 - `Atividade 7/` - Scripts e documentação da Atividade 7
 - `Automatização da fábrica/` - Scripts relacionados à automatização do sistema
 - `Consultas - joins/` - Exemplos e exercícios de consultas com JOINs
 
+### Arquivos SQL
+- `setando variaveis.sql` - Configuração de variáveis do ambiente
+- `Criando usuários - Aula 8.sql` - Scripts para criação e gerenciamento de usuários
+- `Código - prova 3.sql` - Scripts da terceira prova
+- `Atividade 03_02.sql` - Scripts da atividade 3.2
+- `Aula 9.sql` - Scripts da aula 9
+
 ## Formato dos Arquivos
 
-Todos os scripts SQL e documentação estão salvos em formato `.docx` para facilitar a visualização e edição.
+Os scripts SQL estão salvos em arquivos `.sql` para fácil execução em ambientes de banco de dados. Alguns arquivos de documentação podem estar em formato `.pdf` para facilitar a visualização e edição.
 
 ## Conteúdo
 
@@ -24,17 +31,19 @@ O projeto abrange diversos aspectos de banco de dados, incluindo:
 - Criação e modelagem de banco de dados
 - Consultas SQL (SELECT, INSERT, UPDATE, DELETE)
 - JOINs e relacionamentos
+- Gerenciamento de usuários e permissões
 - Automatização de processos
 - Documentação do sistema
 
 ## Como Usar
 
-1. Navegue até a pasta desejada para encontrar os materiais específicos
-2. Os arquivos `.docx` contêm os scripts SQL e documentação explicativa
-3. Para executar os scripts, copie o conteúdo SQL do arquivo `.docx` e execute em seu ambiente de banco de dados
+1. Navegue até a pasta ou arquivo desejado
+2. Para executar os scripts SQL:
+   - Abra o arquivo `.sql` em seu ambiente de banco de dados
+   - Execute o script completo ou selecione partes específicas
+3. Para arquivos `.pdf`, abra-os para visualizar a documentação detalhada
 
 ## Observações
 
 - Todos os scripts estão documentados em português
-- Os arquivos `.docx` contêm explicações detalhadas sobre cada script
-- Mantenha a estrutura de pastas organizada ao adicionar novos materiais 
+- Certifique-se de configurar as variáveis necessárias antes de executar os scripts 
