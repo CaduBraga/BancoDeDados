@@ -1,0 +1,70 @@
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignorar logs
+*.log
+*.sql.log
+
+# Ignorar arquivos temporários
+*.tmp
+*.swp
+*.bak
+*.backup
+
+# Ignorar pastas de backup do VSCode
+.vscode/
+
+# Ignorar arquivos de cache
+.cache/
+
+# Arquivos específicos de banco de dados
+*.dump
+*.sql.bak
+*.sql.backup
+*.sql.tmp
+
+# Arquivos de configuração de banco de dados (podem conter senhas)
+*.cnf
+*.conf
+*.ini
+
+# Arquivos de dados sensíveis
+*.dat
+*.data
+*.csv
+*.xlsx
+*.xls
+
+# Arquivos de backup de banco de dados
+*.sql.gz
+*.sql.zip
+*.dump.gz
+*.dump.zip
+
+# Arquivos de log de banco de dados
+mysql.log
+mysql-slow.log
+mysql-error.log
+
+# Arquivos de configuração do MySQL
+my.cnf
+my.ini
+
+# Arquivos temporários do MySQL
+*.err
+*.pid
+*.sock
+
+# Arquivos de IDE específicos
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/ 

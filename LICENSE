@@ -1,0 +1,53 @@
+Educational License – CentroWeg – Curso de Desenvolvimento de Sistemas
+Turma MIDS 77
+
+Copyright (c) 2024 Carlos Eduardo Braga
+
+Este software foi desenvolvido exclusivamente para fins educativos no âmbito do curso de Desenvolvimento de Sistemas do CentroWeg, Turma MIDS 77, durante a Unidade Curricular de Banco de Dados, sob orientação do professor Kristian Erdmann e com contribuições e auxílio de outros professores.
+
+Permissões concedidas:
+- Qualquer pessoa pode visualizar, copiar ou fazer um fork deste código para fins pessoais ou educacionais.
+- É permitido estudar, aprender e utilizar como referência para desenvolvimento próprio de bancos de dados.
+- É permitida a execução dos scripts SQL conforme disponibilizado neste repositório.
+- É permitido usar as estruturas de banco de dados como base para projetos educacionais.
+
+Restrições:
+- Não é permitido modificar diretamente este código e redistribuí-lo como original.
+- Alterações só podem ser feitas em cópias pessoais ou forks, desde que seja preservada a referência ao código original e ao autor.
+- Uso comercial é proibido sem autorização expressa do autor.
+- Não é permitido usar dados sensíveis ou pessoais em exemplos ou exercícios.
+- É obrigatório usar apenas dados fictícios para fins educacionais.
+
+Isenção de responsabilidade:
+O software é fornecido "como está", sem garantias de qualquer tipo, expressas ou implícitas, incluindo mas não se limitando a garantias de comercialização, adequação a um propósito específico e não infração.
+Em nenhuma circunstância o autor, os professores ou a instituição serão responsáveis por quaisquer danos decorrentes do uso ou impossibilidade de uso deste software.
+O autor não se responsabiliza por perda de dados ou problemas de segurança decorrentes do uso dos scripts SQL fornecidos.
+
+-----------------------------------------
+English Version
+-----------------------------------------
+
+Educational License – CentroWeg – Systems Development Course
+Class MIDS 77
+
+Copyright (c) 2024 Carlos Eduardo Braga
+
+This software was developed exclusively for educational purposes as part of the Systems Development course at CentroWeg, Class MIDS 77, during the Database curricular unit, under the guidance of professor Kristian Erdmann and with contributions and assistance from other teachers.
+
+Granted permissions:
+- Anyone may view, copy, or fork this code for personal or educational purposes.
+- It is allowed to study, learn from, and use it as a reference for personal database development.
+- Running the SQL scripts as provided in this repository is permitted.
+- It is allowed to use the database structures as a basis for educational projects.
+
+Restrictions:
+- Direct modification of this code and redistribution as the original is not allowed.
+- Changes may only be made in personal copies or forks, provided the reference to the original code and author is preserved.
+- Commercial use is prohibited without the express permission of the author.
+- It is not allowed to use sensitive or personal data in examples or exercises.
+- It is mandatory to use only fictitious data for educational purposes.
+
+Disclaimer:
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+In no event shall the author, teachers, or the institution be liable for any claim, damages, or other liability arising from, out of, or in connection with the software or its use.
+The author is not responsible for data loss or security issues arising from the use of the provided SQL scripts.

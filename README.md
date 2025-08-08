@@ -47,3 +47,16 @@ O projeto abrange diversos aspectos de banco de dados, incluindo:
 
 - Todos os scripts estão documentados em português
 - Certifique-se de configurar as variáveis necessárias antes de executar os scripts 
+
+## 📋 Documentação do Projeto
+
+Para mais informações sobre este projeto, consulte:
+
+- **[CHANGELOG.md](CHANGELOG.md)** - Histórico de mudanças e versões
+- **[LICENSE](LICENSE)** - Licença educacional do projeto
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Guia para contribuições
+- **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** - Código de conduta da comunidade
+
+---
+
+*Última atualização: Agosto 2025*
