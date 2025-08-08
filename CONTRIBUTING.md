@@ -9,7 +9,7 @@ Obrigado por considerar contribuir para este projeto educacional de Banco de Dad
 1. Faça um fork deste repositório
 2. Clone o fork para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/banco-de-dados.git
+   git clone https://github.com/CaduBraga/banco-de-dados.git
    ```
 
 ### 2. Crie uma Branch
